@@ -1,7 +1,7 @@
 {
   "version": "2.2.2",
   "url": "https://github.com/LEVIxAOTT/nexus-updates/releases/download/2.2.2/NEXUS-AI-Setup-2.2.2.exe",
-  "sha256": "a0d02b3b20703417a4fef38571bb2681eb35da1d1ff49590f0ce2b99225cb2d3",
-  "notes": "Security and stability improvements, more reliable workspace and chat handling, and improved AI tool-call reliability.",
+  "sha256": "a874f1545b4b350c90b50c9c210c6a51b99f26a6ce07a39b451a7b168323b520",
+  "notes": "Security and stability improvements, more reliable workspace and chat handling, improved AI tool-call reliability, and a fix for update downloads.",
   "publishedAt": "2026-11-26"
 }
