@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/LEVIxAOTT/nexus-updates/releases/download/2.2.0/NEXUS-AI-Setup-2.2.0.exe",
-  "sha256": "68e3a0b20edfac01fd253618b753608d05b255489d1360ee45ebd69e4b9a97c1",
-  "notes": "Premium settings page, notification centre, task manager, tray and startup options.",
-  "publishedAt": "2026-11-25"
+  "version": "2.2.2",
+  "url": "https://github.com/LEVIxAOTT/nexus-updates/releases/download/2.2.2/NEXUS-AI-Setup-2.2.2.exe",
+  "sha256": "a0d02b3b20703417a4fef38571bb2681eb35da1d1ff49590f0ce2b99225cb2d3",
+  "notes": "Security and stability improvements, more reliable workspace and chat handling, and improved AI tool-call reliability.",
+  "publishedAt": "2026-11-26"
 }
